@@ -1,4 +1,3 @@
-# running a function in another thread
 # running a function with arguments in another thread
 
 from time import sleep, ctime
