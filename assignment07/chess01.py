@@ -2,7 +2,7 @@ import time
 
 my_compute_time = 0.1
 opponent_compute_time = 0.5
-opponents = 3
+opponents = 24
 move_pairs = 30
 
 def game(x):
