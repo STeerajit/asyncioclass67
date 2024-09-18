@@ -1,4 +1,3 @@
-# https://aiokafka.readthedocs.io/en/stable/
 from aiokafka import AIOKafkaConsumer
 import asyncio
 
